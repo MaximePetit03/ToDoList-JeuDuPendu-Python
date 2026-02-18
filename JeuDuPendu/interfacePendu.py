@@ -158,7 +158,7 @@ class JeuPendu(ctk.CTk):
                 self.label_mot.configure(text=f"Perdu ! Le mot était : {self.mot_choisi.upper()}", text_color="#ff0000", font=("Segoe UI", 25, "bold"))
                 
                 # On désactive le bouton pour empêcher de continuer
-                self.btn_valider.configure(state="disabled", text="PERDU")
+                self.btn_valider.configure(state="disabled")
                 
                 # On attend 5 secondes avant de relancer la partie
                 self.after(5000, self.reset)
@@ -171,6 +171,7 @@ class JeuPendu(ctk.CTk):
         self.essais_restant = 10
         self.lettres_trouvees = []
         self.lettres_dites = []
+        self.btn_valider.configure(state="unabled")
         self.canvas.delete("all") # Efface tout le dessin du Canvas
         self.label_mot.configure(text=self.affichage())
         self.label_mot.configure(text_color="white")
