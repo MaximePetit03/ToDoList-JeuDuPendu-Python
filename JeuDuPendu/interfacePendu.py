@@ -171,7 +171,7 @@ class JeuPendu(ctk.CTk):
         self.essais_restant = 10
         self.lettres_trouvees = []
         self.lettres_dites = []
-        self.btn_valider.configure(state="unabled")
+        self.btn_valider.configure(state="normal")
         self.canvas.delete("all") # Efface tout le dessin du Canvas
         self.label_mot.configure(text=self.affichage())
         self.label_mot.configure(text_color="white")
