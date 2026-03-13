@@ -10,7 +10,7 @@
 
 | ToDo List Manager | Jeu du Pendu |
 | :---: | :---: |
-| ![Aperçu ToDo](https://via.placeholder.com/400x250?text=ToDo+List+Screenshot) | ![Aperçu Pendu](https://via.placeholder.com/400x250?text=Pendu+Screenshot) |
+| ![Aperçu ToDo](<img width="847" height="774" alt="Image" src="https://github.com/user-attachments/assets/48cf3518-01de-46bd-81ff-c92b8425e209" />) | ![Aperçu Pendu](<img width="865" height="781" alt="Image" src="https://github.com/user-attachments/assets/3135299a-d565-4bef-a99e-bc752449820e" />) |
 
 ---
 
