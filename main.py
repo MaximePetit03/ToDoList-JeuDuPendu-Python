@@ -416,8 +416,6 @@ def main():
         exercice38()
     elif choix == "39":
         exercice39()
-    elif choix == "40":
-        exercice40()
     else:
         print("Exercice non reconnu.")
 if __name__ == "__main__":

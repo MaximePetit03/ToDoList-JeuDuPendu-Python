@@ -168,7 +168,7 @@ class JeuPendu(ctk.CTk):
 
         self.mot_choisi = random.choice(self.liste_de_mots)
         self.pendu = list(self.mot_choisi)
-        self.essais_restant = 10
+        self.essais_restant = 11
         self.lettres_trouvees = []
         self.lettres_dites = []
         self.btn_valider.configure(state="normal")
