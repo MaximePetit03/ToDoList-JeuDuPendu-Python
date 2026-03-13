@@ -10,7 +10,7 @@
 
 | ToDo List Manager | Jeu du Pendu |
 | :---: | :---: |
-| <img width="847" height="774" alt="Image" src="https://github.com/user-attachments/assets/48cf3518-01de-46bd-81ff-c92b8425e209" />) | <img width="865" height="781" alt="Image" src="https://github.com/user-attachments/assets/3135299a-d565-4bef-a99e-bc752449820e" /> |
+| <img width="847" height="774" alt="Image" src="https://github.com/user-attachments/assets/48cf3518-01de-46bd-81ff-c92b8425e209" /> | <img width="865" height="781" alt="Image" src="https://github.com/user-attachments/assets/3135299a-d565-4bef-a99e-bc752449820e" /> |
 
 ---
 
@@ -64,4 +64,5 @@ Pour le Jeu du Pendu :
 **Langage : Python 3**
 
 **GUI Library : CustomTkinter**
+
 
