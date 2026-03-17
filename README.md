@@ -1,4 +1,4 @@
-# 🐍 Python : ToDo & Hangman
+# 🐍 Python : ToDo & Jeu du Pendu
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![UI Library](https://img.shields.io/badge/UI-CustomTkinter-orange)](https://github.com/TomSchimansky/CustomTkinter)
