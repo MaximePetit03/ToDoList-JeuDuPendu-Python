@@ -1,10 +1,9 @@
-# 🐍 Python GUI Bundle: ToDo & Hangman
+# 🐍 Python : ToDo & Hangman
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![UI Library](https://img.shields.io/badge/UI-CustomTkinter-orange)](https://github.com/TomSchimansky/CustomTkinter)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
----
 
 ## 📸 Aperçu
 
@@ -12,7 +11,6 @@
 | :---: | :---: |
 | <img width="847" height="774" alt="Image" src="https://github.com/user-attachments/assets/48cf3518-01de-46bd-81ff-c92b8425e209" /> | <img width="865" height="781" alt="Image" src="https://github.com/user-attachments/assets/3135299a-d565-4bef-a99e-bc752449820e" /> |
 
----
 
 ## 📋 1. ToDo List Manager
 Un gestionnaire de tâches robuste axé sur l'efficacité et la persistance.
@@ -25,7 +23,6 @@ Un gestionnaire de tâches robuste axé sur l'efficacité et la persistance.
     * `Ctrl + A` : Tout sélectionner.
     * `Suppr` : Supprimer la sélection.
 
----
 
 ## 🎮 2. Jeu du Pendu
 Le grand classique revisité avec une interface dynamique.
@@ -35,7 +32,6 @@ Le grand classique revisité avec une interface dynamique.
 * **Logique de Jeu** : Gestion automatique des essais (11 max), détection des doublons et reset temporisé après victoire ou défaite.
 * **Sécurité** : Filtrage intelligent des entrées (lettres uniquement).
 
----
 
 ## ⚙️ Installation
 
